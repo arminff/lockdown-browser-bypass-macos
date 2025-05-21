@@ -1,4 +1,3 @@
-# Replace the existing requirements.txt with:
-echo "psutil==5.9.4
+psutil==5.9.4
 PyObjC==9.1.1
-PyObjC-framework-Cocoa==9.1.1" > requirements.txt
+PyObjC-framework-Cocoa==9.1.1
