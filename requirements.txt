@@ -1,3 +1,4 @@
-psutil==5.7.2
-pyobjc-core==6.2.2
-pyobjc-framework-Cocoa==6.2.2
+# Replace the existing requirements.txt with:
+echo "psutil==5.9.4
+PyObjC==9.1.1
+PyObjC-framework-Cocoa==9.1.1" > requirements.txt
